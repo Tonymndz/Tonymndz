@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Tony here, Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tony Mendez, with an experience and knowledgement on Full Stack Development but with a bigger emphasis on the front-end side. 
+<!-- <p>Welcome to my page! </br> I'm Tony Mendez, with an experience and knowledgement on Full Stack Development but with a bigger emphasis on the front-end side. -->
 
 <h3>Things I code with:</h3>
 <p>
